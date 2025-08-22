@@ -1,8 +1,0 @@
-{
-  "name": "klirio-stripe",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "stripe": "^15.12.0"
-  }
-}
